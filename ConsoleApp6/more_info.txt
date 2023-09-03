@@ -1,0 +1,5 @@
+﻿the connection string to add in visual studio explorer:
+
+(localdb)\MSSQLLocalDB
+
+database name : MyDb
